@@ -1,0 +1,1 @@
+ES6 combine modules with webpack
